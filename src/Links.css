@@ -1,0 +1,11 @@
+.Link {
+    display: block;
+    margin: 1em auto;
+    text-decoration: none;
+    background-color: lightgray;
+    padding: 1em;
+    width: 6em;
+    color: black;
+    border-radius: 5px;
+    border: 0.1px solid darkgray;
+}

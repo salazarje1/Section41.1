@@ -1,0 +1,14 @@
+.VendingMachine {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://img.freepik.com/free-vector/cartoon-vending-machines-collection_52683-73161.jpg?w=1380&t=st=1666208556~exp=1666209156~hmac=d75e0374b95edcd870f05524d3be5d286e4350f4b0d0816aee44bd2ca5a3dd1b');
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.VendingMachine-title {
+    margin-top: 1em;
+    font-size: 4rem;
+    letter-spacing: 5px;
+}

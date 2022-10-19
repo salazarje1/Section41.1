@@ -1,0 +1,16 @@
+.VendingLinks {
+    position: absolute;
+    top: 16%;
+    /* left: 47%; */
+    display: flex; 
+    width: 100vw;
+    justify-content: space-around;
+
+}
+
+.VendingLinks-link {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: Black;
+    padding: 0px 7em 25em;
+}
